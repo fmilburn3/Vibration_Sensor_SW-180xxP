@@ -10,7 +10,7 @@
  I found that both sensors took a fairly good shake or
  bump to set them off.  For my use the higher sensitivity
  was better.   They are inexpensive enough though to get one
- of each, try them both, and see which one is best for you.
+ of each, try them both, and see which one is best.
  
  Tested on MSP-EXP430F5529 LaunchPad but should work on most
  LaunchPads.  The vibration sensor is basically an open
@@ -27,7 +27,6 @@
  
  Frank Milburn  16 June 2015 
  This example code is in the public domain.
- 
  */
 
 const int vibrationPin = 5;           
